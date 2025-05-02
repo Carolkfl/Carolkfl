@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Caroline 👋
 
-<!--
-**Carolkfl/Carolkfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formada em Análise e Desenvolvimento de Sistemas  
+📊 Estudando Power BI, SQL e Python para Análise de Dados  
+💻 Apaixonada por tecnologia e soluções baseadas em dados  
+📚 Sempre em busca de novos aprendizados  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- Power BI, SQL, Python
+- HTML, CSS, JavaScript
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Me encontre:  
+[LinkedIn](https://www.linkedin.com/in/souza-caroline) | [Portfólio (caso tenha)](#)
