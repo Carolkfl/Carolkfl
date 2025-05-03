@@ -10,4 +10,4 @@
 
 
 📫 Me encontre:  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin.com/in/souza-caroline/&logoColor=white) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=[linkedin.com/in/souza-caroline](https://www.linkedin.com/in/souza-caroline/)/&logoColor=white) 
